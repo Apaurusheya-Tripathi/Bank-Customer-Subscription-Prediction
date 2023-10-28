@@ -77,5 +77,19 @@ Dataset has 40,000+ rows of data.
 
 -Model Training/Evaluation/Hyper Parameter Tuning
 
+<h2>Model Used</h2>
+- Logistic Regression <br>
+- Decision Tree <br>
+- Random Forest <br>
+
+<h2>Requirements</h2>
+- Python <br>
+- Google colab or Jupyter notebook <br>
+- numpy <br>
+- pandas <br>
+- matplotlib <br>
+- seaborn <br>
+- os <br>
+- shutil
 <h2>Project Definition</h2>
 The classification goal is to predict if a client will subscribe to the bank term deposit (yes/no).
